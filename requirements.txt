@@ -1,0 +1,4 @@
+# NOTE: use opencv-contrib-python (it includes cv2.face).
+# Do NOT install opencv-python at the same time -- uninstall it first if present.
+opencv-contrib-python>=4.8
+numpy>=1.24
